@@ -55,6 +55,7 @@ where staffid = 'AB405'
 
 ## Data visualization
 ![Screenshot (11)](https://github.com/user-attachments/assets/b27f6d03-b7ca-42d2-9c2c-7c2e53956e1a)
+
 ![Screenshot (9)](https://github.com/user-attachments/assets/1298799c-2a5f-4f86-8e3b-fe6cfa409c8f)
 
 
