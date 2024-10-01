@@ -1,11 +1,22 @@
 # LITA--class-Project
+[DATAOVERVIEW](#data_overview)
+
+[DATASOURCES](#data_sources)
+
+[TOOLS USED](#toolsused)
+
+[EXPLORATORY DATA ANALYSIS](#exploratorydata_analysis)
+
+[Data analysis](#data_analysis)
+
+[Data visualization](#data_visualization)
 
 
 ## DATA OVERVIEW
 ---
 The aim of this project is to generate valuable insights into employee demographics, payment structures, and salary distributions across various organizations. By analyzing key factors such as job roles, industry variations, geographic location, and experience levels, the project seeks to uncover trends in compensation, including wage growth, the gender pay gap, and performance-based incentives. This analysis will help organizations make informed decisions about fair and competitive compensation strategies, improving employee satisfaction, retention, and overall business performance.
 
-## DATASOURCES [DATA-SOURCES]
+## DATASOURCES
 DATASOURCES
 The primary data sources used here is SQL QUREIES LITA-DB3
 
@@ -43,3 +54,7 @@ where staffid = 'AB405'
 ```
 
 ## Data visualization
+![Screenshot (11)](https://github.com/user-attachments/assets/b27f6d03-b7ca-42d2-9c2c-7c2e53956e1a)
+![Screenshot (9)](https://github.com/user-attachments/assets/1298799c-2a5f-4f86-8e3b-fe6cfa409c8f)
+
+
